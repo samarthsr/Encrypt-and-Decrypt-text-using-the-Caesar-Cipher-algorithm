@@ -1,4 +1,4 @@
-# encrypt and decrypt text using the Caesar Cipher algorithm
+#Encrypt and Decrypt text using the Caesar Cipher algorithm
 A Python program to encrypt and decrypt text using the Caesar Cipher algorithm. It supports encryption, decryption, case sensitivity, and handles non-alphabetic characters. Ideal for learning cryptography basics and improving Python skills. User-friendly and perfect for beginners!
 🚀 Features
 Encryption: Converts plain text into cipher text using a user-defined shift value.
